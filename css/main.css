@@ -1,0 +1,59 @@
+
+img{
+    width: 200px;
+}
+.button{
+    background-color: rgb(14, 131, 233);
+padding: 11px;
+padding-left: 100px;
+padding-right: 100px;
+margin-bottom: 3px;
+font-size: 22px;
+
+}
+.button2{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    border: 2px solid rgb(3, 192, 255);
+    color: #03c0ff;
+    margin-bottom: 3px;
+    font-size: 22px;
+    
+}
+.nummber{
+    color: green;
+    text-align: left;
+}
+.old{
+    color: red;
+    text-decoration: line-through;
+    font-size: 16px;
+    text-align: left;
+}
+.Products{
+    margin-left: 20px;
+}
+.Product{
+    border: 2px solid black;
+    text-align: center;
+    float: left;
+    width: 22%;
+margin-left: 20px;
+margin-bottom: 20px;
+margin-right: 32px;
+
+}
+
+
+.clear{
+    clear: both;
+}
+h2{
+    text-align: left;
+}
+h3{
+    text-align: left;
+}
+ 
